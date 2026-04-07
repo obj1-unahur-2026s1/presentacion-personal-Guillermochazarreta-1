@@ -1,13 +1,22 @@
-![Logo UNAHUR](./UNAHUR.png)
+![logo UNAHUR](UNAHUR.png)
 
-# Programación con objetos I
+# Guillermo Chazarreta
+
 ## Presentación Personal
 
-### Datos Personales
-- Mi nombre es:
-- Vivo en
+hola soy guillermo tengo 24 años, vivo en rafael castillo mis gusto son el basket, el futbol, el café, juntarme con amigos y aprender un poco mas todos los dias.
 
+![Foto de Guillermo](Yo.jpg)
+
+### Gustos personales
+
+- Me gusta leer mangas, ver animes y peliculas
+- Soy un chico de casa asi que mayormente estoy en ella
+- Estudie un curso basico de barista
+- Trabaje mucho tiempo en un grido, estuve en varios trabajos de logistica, me encantaria encontrar un trabajo en donde pueda aplicar mis conocimientos de barista
 
 ### Otra Información
+
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo tres hermanos que son Umma, Valentin y Martina
+- Estoy de pareja hace un tiempo
